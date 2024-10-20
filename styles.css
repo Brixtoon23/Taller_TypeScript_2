@@ -1,0 +1,22 @@
+a {
+    text-decoration: none;
+}
+
+
+.title {
+    background-color: skyblue;
+    color: black;
+    padding: 15px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.title-wrapper {
+    margin-bottom: 40px;
+    background-color: white;
+}
+
+#white-cell {
+    background-color: white;
+}
+
